@@ -2,6 +2,9 @@
   <div id="nav">
     <Navbar />
   </div>
+  <dir class="container">
+    <h1>CRUD con Vue.js</h1>
+  </dir>
   <div class="container">
     <router-view/>
   </div>
